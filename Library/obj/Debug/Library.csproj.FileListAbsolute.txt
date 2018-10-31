@@ -1,0 +1,7 @@
+C:\git\Midterm\Library\Library\bin\Debug\Library.exe.config
+C:\git\Midterm\Library\Library\bin\Debug\Library.exe
+C:\git\Midterm\Library\Library\bin\Debug\Library.pdb
+C:\git\Midterm\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\git\Midterm\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\git\Midterm\Library\Library\obj\Debug\Library.exe
+C:\git\Midterm\Library\Library\obj\Debug\Library.pdb
